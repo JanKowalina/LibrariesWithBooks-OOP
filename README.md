@@ -1,5 +1,3 @@
-Sure! Here's an updated version of the README with the additional information:
-
 # Libraries with Books
 
 This project implements a Book class and a Library class in C++. The Book class represents a book with an author and a title, while the Library class manages a collection of books.
